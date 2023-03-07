@@ -1,9 +1,31 @@
-h1 {
+h3 {
+  text-shadow: 5px 5px tomato;
+}
+
+#p1 {
   color: red;
+  font-size: 20px;
+  text-align: center;
+  background-color: yellow;
+}
+
+#p2 {
+  color: green;
   font-size: 20px;
   text-align: center;
   background-color: salmon;
 }
-h1 {
-  text-shadow: 15px 15px black;
+
+#p3 {
+  color: white;
+  background-color: black;
+}
+
+#p5 {
+  color: blue;
+  background-color: white;
+}
+#p7 {
+  text-shadow: 5px 5px teal;
+  front-size: 60px;
 }
