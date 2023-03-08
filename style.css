@@ -16,16 +16,16 @@ h3 {
   background-color: salmon;
 }
 
-#p3 {
-  color: white;
-  background-color: black;
-}
-
-#p5 {
+.linea5y6 {
   color: blue;
   background-color: white;
 }
+
+.linea3y4 {
+  color: white;
+  background-color: black;
+}
 #p7 {
   text-shadow: 5px 5px teal;
-  front-size: 60px;
+  font-size: 50px;
 }
