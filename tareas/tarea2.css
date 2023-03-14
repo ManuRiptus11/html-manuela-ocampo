@@ -1,0 +1,31 @@
+h3 {
+  text-shadow: 5px 5px tomato;
+}
+
+#p1 {
+  color: red;
+  font-size: 20px;
+  text-align: center;
+  background-color: yellow;
+}
+
+#p2 {
+  color: green;
+  font-size: 20px;
+  text-align: center;
+  background-color: salmon;
+}
+
+.linea5y6 {
+  color: blue;
+  background-color: white;
+}
+
+.linea3y4 {
+  color: white;
+  background-color: black;
+}
+#p7 {
+  text-shadow: 5px 5px teal;
+  font-size: 50px;
+}
