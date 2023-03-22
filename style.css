@@ -2,17 +2,17 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  filter: grayscale(100%) drop-Shadow(10px 10px);
+  filter: grayscale(0%) drop-Shadow(10px 10px);
 }
 #rataconfalda {
   display: block;
   margin-left: 10px;
   margin-right: 200px;
-  filter: grayscale(100%) drop-Shadow(30px 30px);
+  filter: grayscale(0%) drop-Shadow(30px 30px);
 }
 #rataebria {
   display: block;
-  margin-left: 200px;
-  margin-right: 10px;
-  filter: grayscale(100%) drop-Shadow(30px 30px);
+  margin-left: 800px;
+  margin-right: 0px;
+  filter: grayscale(0%) drop-Shadow(30px 30px);
 }
